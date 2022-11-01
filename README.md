@@ -1,4 +1,4 @@
-# Express Boilerplate
+# Express Project
 
 ## Tech Stack
 - express

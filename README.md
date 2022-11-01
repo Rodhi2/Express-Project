@@ -1,5 +1,4 @@
-# Express Backend Project
-Express With Prisma 
+# Express Boilerplate
 
 ## Tech Stack
 - express
